@@ -1,0 +1,2 @@
+# Desafio2_I2A2
+Tomando o Iris dataset como base, será possível criar um perceptron que consiga classificar 2 classes de flores - "iris setosa" e "iris outras"? Quais valores serão mais adequados para esta análise? Comprimento da pétala, comprimento da sépala, largura da pétala, largura da sépala? Para enxergarem melhor, minha sugestão é utilizar o Orange (que é instalado junto com o pacote completo do Anaconda), ou utilizar outra ferramenta qualquer (como o Weka) e gerar um scatter plot das combinações.
